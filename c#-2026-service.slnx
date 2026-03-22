@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../c#-2026-repository/c#-2026-repository.csproj" />
   <Project Path="c#-2026-service.csproj" />
 </Solution>
